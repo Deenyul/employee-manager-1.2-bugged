@@ -1,0 +1,14 @@
+﻿Below is a list of the bugs found in the home server for employee Manager.
+1. Clicking on a name for someone and editing it in Internet Explorer 11 results in the name field having hyphens between each character of the name. The hyphens are an even multiple that add up to 30.
+2. If only one name is submitted there is an error stating the name must be between 1 and 30 characters long.
+3. The error message has the same bugs that version 1.2 had. 
+   1. Name line results in error for title and name
+   2. Lines turn red and don’t change after a submission
+   3. The title field doesn’t have a character limit
+1. Apparently just clicking on the name causes the error with the hyphenated letters to happen.
+2. The save button has the word “Sieve” on it
+3. Clicking New Employee does create a new ID, however; none of the data is filled in on the new ID so it appears to do nothing till the blank space is clicked.
+4. The version bar has version 1..2 listed rather than 1.2
+5. Adding enough employees will drop the add employee button below the version trailer bar at the bottom of the screen. Meaning you click it enough times and you won’t be able to click it again because the version bar is in the way.
+6. The background color changes below the version bar once enough employees are added to get the button below the address bar.
+7.
